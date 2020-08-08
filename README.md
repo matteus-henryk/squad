@@ -73,5 +73,5 @@
 </p>
 
 <h4>Minhas redes sociais</h4>
-<a href="https://www.linkedin.com/in/matteus-henryk-086451196/"><img style="width: 40px" src="https://image.flaticon.com/icons/svg/1383/1383262.svg"></a>
-<a href="https://www.instagram.com/matteusfrancischini/?hl=pt-br"><img style="width: 40px" src="https://image.flaticon.com/icons/svg/1383/1383263.svg"></a>
+<a href="https://www.linkedin.com/in/matteus-henryk-086451196/"><img width= "40" height="40" src="https://image.flaticon.com/icons/svg/1383/1383262.svg"></a>
+<a href="https://www.instagram.com/matteusfrancischini/?hl=pt-br"><img width= "40" height="40" src="https://image.flaticon.com/icons/svg/1383/1383263.svg"></a>
